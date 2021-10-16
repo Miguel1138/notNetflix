@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drawable_cover"
+        android:drawable="@drawable/placeholder_bg" />
+
+    <item android:id="@+id/drawable_gradient">
+        <shape>
+            <gradient
+                android:centerColor="@android:color/transparent"
+                android:endColor="@color/black"
+                android:startColor="#E1000000" />
+        </shape>
+    </item>
+</layer-list>

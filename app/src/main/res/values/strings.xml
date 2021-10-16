@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miguelix</string>
+    <string name="test_name">Ola Mundo</string>
+    <string name="movie_cast">Elenco: %1$s</string>
+    <string name="similar_choices">Opções semelhantes</string>
+    <string name="play_button">Botão iniciar</string>
+</resources>
